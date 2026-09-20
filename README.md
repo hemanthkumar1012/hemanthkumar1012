@@ -10,8 +10,11 @@ Building **AI-powered applications, intelligent agents, and reliable backend sys
   <a href="https://github.com/hemanthkumar1012">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/v-hemanth-kumar-yadav/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://hemanthkumar1012.github.io/Hemanth-kumar-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -58,7 +61,7 @@ AI-powered recruitment platform for resume analysis and intelligent application 
 
 **React • TypeScript • FastAPI • Gemini AI**
 
-🔗 [Live Demo](https://applyright-puce.vercel.app/)
+🔗 [Live Demo](https://applyright-puce.vercel.app/) • [Source Code](https://github.com/hemanthkumar1012/hireai)
 
 ---
 
@@ -67,8 +70,7 @@ AI-powered shipment support platform with an intelligent customer-support agent.
 
 **AI Agents • Python • APIs • Web Applications**
 
-🔗 [Platform](https://parcelpilot-platform.vercel.app/)  
-🔗 [AI Agent](https://parcelpilot-ai-agent.onrender.com/)
+🔗 [Platform](https://parcelpilot-platform.vercel.app/) • [AI Agent](https://parcelpilot-ai-agent.onrender.com/) • [Source Code](https://github.com/hemanthkumar1012/parcelpilot-platform)
 
 ---
 
@@ -85,8 +87,6 @@ Security and observability platform focused on auditing AI-agent activity.
 Environment for evaluating and analyzing Large Language Model applications.
 
 **LLM Evaluation • AI Testing • Metrics • Experimentation**
-
-🔗 [Source Code](https://github.com/hemanthkumar1012/llm-evaluation-lab)
 
 ---
 
@@ -114,9 +114,9 @@ I'm currently interested in moving beyond simple chatbots toward **reliable auto
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hemanthkumar1012&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="170" src="./profile/stats.svg" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumar1012&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="./profile/top-langs.svg" />
 
 <br/>
 
@@ -130,7 +130,7 @@ I'm currently interested in moving beyond simple chatbots toward **reliable auto
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthkumar1012&theme=github-dark&hide_border=true" />
+<img src="./profile/github-contribution-grid-snake.svg" alt="GitHub contribution activity" />
 
 </div>
 
@@ -144,8 +144,11 @@ I'm interested in **AI engineering, backend development, intelligent agents, and
   <a href="https://github.com/hemanthkumar1012">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/v-hemanth-kumar-yadav/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://hemanthkumar1012.github.io/Hemanth-kumar-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome" />
   </a>
 </p>
 
