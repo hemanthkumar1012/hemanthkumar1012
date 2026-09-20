@@ -28,10 +28,14 @@ jobs:
             profile/github-contribution-grid-snake.svg
             profile/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Keep contribution game alive
+        run: |
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > profile/contribution-game-heartbeat.txt
+
       - name: Commit generated assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git diff --cached --quiet || git commit -m "chore: update contribution assets"
+          git add profile/*.svg profile/contribution-game-heartbeat.txt
+          git diff --cached --quiet || git commit -m "chore: update contribution game"
           git push
