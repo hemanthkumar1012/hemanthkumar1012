@@ -6,17 +6,19 @@
 
 Building **AI-powered applications, intelligent agents, and reliable backend systems.**
 
-<p>
-  <a href="https://github.com/hemanthkumar1012">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/v-hemanth-kumar-yadav/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://hemanthkumar1012.github.io/Hemanth-kumar-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/v-hemanth-kumar-yadav/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://hemanthkumar1012.github.io/Hemanth-kumar-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/hemanthkumar1012">
+  <img src="https://img.shields.io/badge/GitHub-Profile-24292F?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -61,27 +63,24 @@ AI-powered recruitment platform for resume analysis and intelligent application 
 
 **React • TypeScript • FastAPI • Gemini AI**
 
-🔗 [Live Demo](https://applyright-puce.vercel.app/) • [Source Code](https://github.com/hemanthkumar1012/hireai)
-
----
+<a href="https://applyright-puce.vercel.app/">Live Demo</a> ·
+<a href="https://github.com/hemanthkumar1012/hireai">Source Code</a>
 
 ### 📦 ParcelPilot
 AI-powered shipment support platform with an intelligent customer-support agent.
 
 **AI Agents • Python • APIs • Web Applications**
 
-🔗 [Platform](https://parcelpilot-platform.vercel.app/) • [AI Agent](https://parcelpilot-ai-agent.onrender.com/) • [Source Code](https://github.com/hemanthkumar1012/parcelpilot-platform)
-
----
+<a href="https://parcelpilot-platform.vercel.app/">Platform</a> ·
+<a href="https://parcelpilot-ai-agent.onrender.com/">AI Agent</a> ·
+<a href="https://github.com/hemanthkumar1012/parcelpilot-platform">Source Code</a>
 
 ### 🛡️ Aegis Control Plane
 Security and observability platform focused on auditing AI-agent activity.
 
 **Agent Security • Observability • Audit Logs • AI Infrastructure**
 
-🔗 [Source Code](https://github.com/hemanthkumar1012/aegis)
-
----
+<a href="https://github.com/hemanthkumar1012/aegis">Source Code</a>
 
 ### 🧪 LLM Evaluation Lab
 Environment for evaluating and analyzing Large Language Model applications.
@@ -93,44 +92,43 @@ Environment for evaluating and analyzing Large Language Model applications.
 ## 🧠 Current Focus
 
 ```text
-AI Agents
-   ↓
-Tool Calling
-   ↓
-RAG & Knowledge Retrieval
-   ↓
-LLM Evaluation
-   ↓
-Observability
-   ↓
-Reliable & Self-Healing AI Systems
+AI Agents → Tool Calling → RAG → LLM Evaluation
+                         ↓
+              Observability & Reliability
+                         ↓
+             Self-Healing AI Systems
 ```
 
-I'm currently interested in moving beyond simple chatbots toward **reliable autonomous systems that can reason, use tools, detect failures, and recover from them.**
+I'm interested in moving beyond simple chatbots toward **reliable autonomous systems that can reason, use tools, detect failures, and recover from them.**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="./profile/stats.svg" />
+<img height="170" src="./profile/stats.svg" alt="GitHub statistics" />
+<img height="170" src="./profile/top-langs.svg" alt="Top programming languages" />
 
-<img height="170" src="./profile/top-langs.svg" />
+<br/><br/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=hemanthkumar1012&theme=github-dark-blue&hide_border=true" />
+<a href="https://github.com/hemanthkumar1012">
+  <img src="https://streak-stats.demolab.com?user=hemanthkumar1012&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</a>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="./profile/github-contribution-grid-snake.svg" alt="GitHub contribution activity" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
+  <img src="./profile/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</picture>
 
 </div>
 
@@ -138,17 +136,17 @@ I'm currently interested in moving beyond simple chatbots toward **reliable auto
 
 ## 🤝 Let's Connect
 
-I'm interested in **AI engineering, backend development, intelligent agents, and real-world software products.**
-
-<p>
-  <a href="https://github.com/hemanthkumar1012">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
+<p align="center">
   <a href="https://www.linkedin.com/in/v-hemanth-kumar-yadav/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://hemanthkumar1012.github.io/Hemanth-kumar-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:hemanthkumaryadav13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-6B7280?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -156,6 +154,6 @@ I'm interested in **AI engineering, backend development, intelligent agents, and
 
 <div align="center">
 
-### 🚀 Building products from 0 → 1
+**Building products from 0 → 1.**
 
 </div>
