@@ -121,20 +121,6 @@ I'm interested in moving beyond simple chatbots toward **reliable autonomous sys
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
-  <img src="./profile/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</picture>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
