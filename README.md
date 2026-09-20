@@ -121,6 +121,20 @@ I'm interested in moving beyond simple chatbots toward **reliable autonomous sys
 
 ---
 
+## 🐍 Contribution Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemanthkumar1012/hemanthkumar1012/main/profile/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemanthkumar1012/hemanthkumar1012/main/profile/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/hemanthkumar1012/hemanthkumar1012/main/profile/github-contribution-grid-snake.svg" alt="GitHub contribution snake game" />
+  </picture>
+</p>
+
+> 🔄 Updated automatically every day from my GitHub contribution graph.
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
