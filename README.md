@@ -105,15 +105,16 @@ I'm interested in moving beyond simple chatbots toward **reliable autonomous sys
 
 ## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/hemanthkumar1012?label=Followers&style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/hemanthkumar1012?label=Profile%20Stars&style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/commit-activity/y/hemanthkumar1012?label=Commit%20Activity&style=flat-square&logo=git&logoColor=white" />
+</p>
+
 <div align="center">
 
-<img height="170" src="./profile/stats.svg" alt="GitHub statistics" />
-<img height="170" src="./profile/top-langs.svg" alt="Top programming languages" />
-
-<br/><br/>
-
 <a href="https://github.com/hemanthkumar1012">
-  <img src="https://streak-stats.demolab.com?user=hemanthkumar1012&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=hemanthkumar1012&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </a>
 
 </div>
